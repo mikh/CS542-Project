@@ -1,0 +1,10 @@
+*\.metadata
+*.zip
+~*
+*.csv
+.classpath
+.project
+*.prefs
+*.class
+*.txt
+*.asv
